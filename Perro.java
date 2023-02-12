@@ -1,4 +1,20 @@
 class Perro {
 
-    
+    //atributos
+
+
+
+
+
+
+
+
+    //métodos 
+   
+
+
+
+
+
+
 }
