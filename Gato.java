@@ -6,18 +6,39 @@ private String ronronear;
 private String lamer;
 private String edad;
 // metodos 
-public void maullar () {
- System.out.println("miau miau");
+public gato() {
+ maullar = "";
+ dormir = "";
+ ronronear = "";
+ lamer = "";
+ edad = 0;
 }
- public void dormir () {
- System.out.println("Zzzz Zzzz");
-}
-  public void ronronear () {
- System.out.println("prrrr prrr");
-}
-  public void lamer () {
- System.out.println("meowww meoww");
-}
+
+  // metodos 
   
-    
+  public String maullar() {
+
+    Return "Miau Miau";
+  }
+  
+  public String dormir () {
+
+    Return "Zzzz Zzzz";
+  }
+  public String ronronear () {
+
+    Return "Meoww Meoww";
+  }
+  public String lamer() {
+
+    Return " Plop! Plop!";
+  }
+  public int edad() {
+
+    Return "";
+
+
+
+
+
  }
