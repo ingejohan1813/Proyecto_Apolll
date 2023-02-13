@@ -1,4 +1,4 @@
-class Perro {
+class perro {
 
 
    
@@ -20,9 +20,9 @@ class Perro {
 
 
     //métodos 
-   public String alimentar; {
+   public String alimentar() {
 
-    Return system.out.println("Toy comiendo ");
+    Return "Estoy comiendo ";
 
    }
 
