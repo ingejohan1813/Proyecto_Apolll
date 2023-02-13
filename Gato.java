@@ -4,7 +4,7 @@ private String maullar;
 private String dormir;
 private String ronronear;
 private String lamer;
-private String edad;
+private int edad;
 // metodos 
 public gato() {
  maullar = "";
